@@ -1,4 +1,4 @@
-![MasterHead](Github Banner.gif)
+[![MasterHead](Github Banner.gif)]
 
 <h1 align="center">Hi 👋, I'm Douns</h1>
 <h3 align="center">A passionate frontend developer from France</h3>

@@ -1,7 +1,9 @@
+[![MasterHead](Github Banner.gif)](https://timeproject.tk)
+
 <h1 align="center">Hi 👋, I'm Douns</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
-<img align="right" alt="coding" width="400" src="Github Banner.gif">
+<img align="right" alt="coding" width="400" src="Github MasterHead.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dounstv&label=Profile%20views&color=0e75b6&style=flat" alt="dounstv" /> </p>
 

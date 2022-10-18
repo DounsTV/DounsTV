@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dounstv&label=Profile%20views&color=0e75b6&style=flat" alt="dounstv" /> </p>
 
-- 🔭 I’m currently working on [Time Project](timeproject.tk)
+- 🔭 I’m currently working on [Time Project](www.timeproject.tk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
